@@ -1,0 +1,13 @@
+|--- Operating_Margin <= -4.124933
+|   |--- weights: [10.000000, 13.000000] class: 1
+|--- Operating_Margin >  -4.124933
+|   |--- Interest_Coverage <= 1.055253
+|   |   |--- Debt_Ratio <= 147.905907
+|   |   |   |--- weights: [210.000000, 25.000000] class: 0
+|   |   |--- Debt_Ratio >  147.905907
+|   |   |   |--- weights: [85.000000, 27.000000] class: 0
+|   |--- Interest_Coverage >  1.055253
+|   |   |--- Current_Ratio <= 122.423447
+|   |   |   |--- weights: [174.000000, 13.000000] class: 0
+|   |   |--- Current_Ratio >  122.423447
+|   |   |   |--- weights: [630.000000, 13.000000] class: 0

@@ -1,0 +1,16 @@
+,mean_weight
+volatility_20d,0.27919278
+high,0.12083487
+volume,0.11369444
+fomc_flag,0.075864285
+news_count,0.05926064
+open,0.0542025
+return_1d,0.044627618
+dow_sin,0.044589754
+sentiment,0.041257203
+dow_cos,0.04075714
+earnings_flag,0.035914868
+low,0.028748527
+close,0.026343483
+month_end,0.018647017
+no_news,0.01606603

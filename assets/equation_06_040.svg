@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="258.5088pt" height="25.2pt" viewBox="0 0 258.5088 25.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-04T18:11:34.259813</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 25.2 
+L 258.5088 25.2 
+L 258.5088 -0 
+L 0 -0 
+L 0 25.2 
+z
+" style="fill: none"/>
+  </g>
+  <g id="text_1">
+   <!-- $X=U_rD_rV_r^{T},\qquad U_r^{T}U_r=V_r^{T}V_r=I_r.$ -->
+   <g transform="translate(2.5344 17.64) scale(0.16 -0.16)">
+    <defs>
+     <path id="DejaVuSans-Oblique-3b" d="M 878 4666 
+L 1516 4666 
+L 2316 2981 
+L 3763 4666 
+L 4500 4666 
+L 2578 2438 
+L 3738 0 
+L 3103 0 
+L 2163 1966 
+L 459 0 
+L -275 0 
+L 1906 2509 
+L 878 4666 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-20" d="M 678 2906 
+L 4684 2906 
+L 4684 2381 
+L 678 2381 
+L 678 2906 
+z
+M 678 1631 
+L 4684 1631 
+L 4684 1100 
+L 678 1100 
+L 678 1631 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-38" d="M 991 4666 
+L 1625 4666 
+L 1075 1831 
+Q 1041 1641 1027 1517 
+Q 1013 1394 1013 1300 
+Q 1013 869 1253 645 
+Q 1494 422 1959 422 
+Q 2563 422 2898 753 
+Q 3234 1084 3378 1831 
+L 3928 4666 
+L 4563 4666 
+L 4000 1753 
+Q 3816 809 3300 359 
+Q 2784 -91 1888 -91 
+Q 1188 -91 780 261 
+Q 372 613 372 1216 
+Q 372 1325 387 1461 
+Q 403 1597 434 1753 
+L 991 4666 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-55" d="M 2853 2969 
+Q 2766 3016 2653 3041 
+Q 2541 3066 2413 3066 
+Q 1953 3066 1609 2717 
+Q 1266 2369 1153 1784 
+L 800 0 
+L 225 0 
+L 909 3500 
+L 1484 3500 
+L 1375 2956 
+Q 1603 3259 1920 3421 
+Q 2238 3584 2597 3584 
+Q 2691 3584 2781 3573 
+Q 2872 3563 2963 3538 
+L 2853 2969 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-27" d="M 1081 4666 
+L 2438 4666 
+Q 3519 4666 4070 4208 
+Q 4622 3750 4622 2847 
+Q 4622 2250 4412 1698 
+Q 4203 1147 3834 769 
+Q 3463 381 2891 190 
+Q 2319 0 1538 0 
+L 172 0 
+L 1081 4666 
+z
+M 1613 4147 
+L 909 519 
+L 1734 519 
+Q 2794 519 3375 1128 
+Q 3956 1738 3956 2847 
+Q 3956 3519 3581 3833 
+Q 3206 4147 2406 4147 
+L 1613 4147 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-39" d="M 1319 0 
+L 500 4666 
+L 1119 4666 
+L 1797 653 
+L 4063 4666 
+L 4750 4666 
+L 2053 0 
+L 1319 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-37" d="M 378 4666 
+L 4325 4666 
+L 4225 4134 
+L 2559 4134 
+L 1759 0 
+L 1125 0 
+L 1925 4134 
+L 275 4134 
+L 378 4666 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-f" d="M 750 794 
+L 1409 794 
+L 1409 256 
+L 897 -744 
+L 494 -744 
+L 750 256 
+L 750 794 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-Oblique-2c" d="M 1081 4666 
+L 1716 4666 
+L 806 0 
+L 172 0 
+L 1081 4666 
+z
+" transform="scale(0.015625)"/>
+     <path id="DejaVuSans-11" d="M 684 794 
+L 1344 794 
+L 1344 0 
+L 684 0 
+L 684 794 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#DejaVuSans-Oblique-3b" transform="translate(0 0.665625)"/>
+    <use xlink:href="#DejaVuSans-20" transform="translate(87.988281 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-38" transform="translate(191.259766 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(264.453125 -14.334326) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-27" transform="translate(295.966797 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(372.96875 -14.334326) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-39" transform="translate(404.482422 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-37" transform="translate(479.907396 41.965625) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(472.890625 -30.234375) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-f" transform="translate(525.40056 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-38" transform="translate(771.49431 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-37" transform="translate(851.70444 41.965625) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(844.687669 -30.234375) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-38" transform="translate(897.197604 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(970.390964 -14.334326) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-20" transform="translate(1021.387057 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-39" transform="translate(1124.658542 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-37" transform="translate(1200.083516 41.965625) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(1193.066745 -30.234375) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-Oblique-39" transform="translate(1245.57668 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(1313.984883 -14.334326) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-20" transform="translate(1364.980977 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-2c" transform="translate(1468.252461 0.665625)"/>
+    <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(1497.744648 -14.334326) scale(0.7)"/>
+    <use xlink:href="#DejaVuSans-11" transform="translate(1529.25832 0.665625)"/>
+   </g>
+  </g>
+ </g>
+</svg>

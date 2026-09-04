@@ -1,0 +1,13 @@
+if x['Operating_Margin'] <= -4.124932527542114:
+    return 1  # node=1, PD=0.5652173913, samples=23, policy: PD > 0.20
+else:
+    if x['Interest_Coverage'] <= 1.0552530884742737:
+        if x['Debt_Ratio'] <= 147.9059066772461:
+            return 0  # node=4, PD=0.1063829787, samples=235, policy: PD > 0.20
+        else:
+            return 1  # node=5, PD=0.2410714286, samples=112, policy: PD > 0.20
+    else:
+        if x['Current_Ratio'] <= 122.42344665527344:
+            return 0  # node=7, PD=0.0695187166, samples=187, policy: PD > 0.20
+        else:
+            return 0  # node=8, PD=0.0202177294, samples=643, policy: PD > 0.20

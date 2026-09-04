@@ -1,0 +1,11 @@
+{
+  "borrower": "synthetic applicant 1",
+  "background_rows": 100,
+  "base_probability": 0.07722735134832535,
+  "predicted_probability": 0.4016126649476239,
+  "sum_SHAP": 0.3243853189347624,
+  "reconstructed_probability": 0.4016126702830878,
+  "policy_threshold": 0.2,
+  "decision": "DECLINE",
+  "max_exact_SHAP_difference": 1.3893393935315856e-09
+}

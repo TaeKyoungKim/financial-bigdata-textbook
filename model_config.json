@@ -1,0 +1,15 @@
+{
+  "features": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "Volatility"
+  ],
+  "lookback": 60,
+  "horizon": 5,
+  "hidden_size": 16,
+  "num_layers": 1,
+  "target_units": "percentage points"
+}

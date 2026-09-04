@@ -1,8 +1,15 @@
 {
-  "script_checks": "passed",
-  "code_blocks_compiled": 11,
-  "formulas_rendered": 53,
-  "figures_embedded": 5,
-  "unfilled_placeholders": 0,
-  "all_source_blocks_in_book": true
+  "code_blocks": 7,
+  "equations": 30,
+  "figures": 5,
+  "all_code_in_book": true,
+  "unfilled_placeholders": false,
+  "script_executed": true,
+  "html_embeds_assets": true,
+  "sources": [
+    "Vaswani et al. 2017",
+    "Lim et al. 2021",
+    "Araci 2019",
+    "PyTorch official docs"
+  ]
 }
